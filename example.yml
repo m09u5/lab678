@@ -1,0 +1,28 @@
+Doris:
+  age: 30
+  favoriteFood: Pizza
+  maritalStatus: Married
+Malwa:
+  age: 25
+  favoriteFood: Pasta
+  maritalStatus: Single
+Sylwia:
+  age: 33
+  favoriteFood: Salad
+  maritalStatus: Divorced
+Woj:
+  age: 40
+  favoriteFood: Steak
+  maritalStatus: Married
+Marek:
+  age: 35
+  favoriteFood: Fish
+  maritalStatus: Single
+Ewka:
+  age: 28
+  favoriteFood: Chicken
+  maritalStatus: Married
+Torba:
+  age: 45
+  favoriteFood: Burger
+  maritalStatus: Widowed
