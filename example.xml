@@ -1,0 +1,46 @@
+<persons>
+    <person>
+        <name>Doris</name>
+        <age>30</age>
+        <favoriteFood>Pizza</favoriteFood>
+        <maritalStatus>Married</maritalStatus>
+        <location>Lesna</location>
+    </person>
+    <person>
+        <name>Malwa</name>
+        <age>25</age>
+        <favoriteFood>Pasta</favoriteFood>
+        <maritalStatus>Single</maritalStatus>
+    </person>
+    <person>
+        <name>Sylwia</name>
+        <age>33</age>
+        <favoriteFood>Salad</favoriteFood>
+        <maritalStatus>Divorced</maritalStatus>
+    </person>
+    <person>
+        <name>Woj</name>
+        <age>40</age>
+        <favoriteFood>Steak</favoriteFood>
+        <maritalStatus>Married</maritalStatus>
+    </person>
+    <person>
+        <name>Marek</name>
+        <age>35</age>
+        <favoriteFood>Fish</favoriteFood>
+        <maritalStatus>Single</maritalStatus>
+    </person>
+    <person>
+        <name>Ewka</name>
+        <age>28</age>
+        <favoriteFood>Chicken</favoriteFood>
+        <maritalStatus>Married</maritalStatus>
+    </person>
+    <person>
+        <name>Torba</name>
+        <age>45</age>
+        <favoriteFood>Burger</favoriteFood>
+        <maritalStatus>Widowed</maritalStatus>
+        <location>Kamien Pomorski</location>
+    </person>
+</persons>
