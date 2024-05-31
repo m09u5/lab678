@@ -1,0 +1,14 @@
+{
+    "Doris": {
+        "age": 30,
+        "favoriteFood": "Pizza"
+    },
+    "Malwa": {
+        "age": 25,
+        "favoriteFood": "Pasta"
+    },
+    "Mei": {
+        "age": 35,
+        "favoriteFood": "Sushi"
+    }
+}
