@@ -1,0 +1,24 @@
+Doris:
+  age: 30
+  favoriteFood: Pizza
+  location: Lesna
+  maritalStatus: Married
+Ewka:
+  age: 28
+  favoriteFood: Chicken
+Malwa:
+  age: 25
+  favoriteFood: Pasta
+  maritalStatus: Single
+Marek:
+  age: 35
+  favoriteFood: Fish
+  maritalStatus: Single
+Sylwia:
+  age: 33
+  favoriteFood: Salad
+  maritalStatus: Divorced
+Woj:
+  age: 40
+  favoriteFood: Steak
+  maritalStatus: Married
