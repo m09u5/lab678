@@ -2,7 +2,6 @@ import json
 import sys
 
 def load_json(file_path):
-    print("doris")
     try:
         with open(file_path, 'r') as file:
             data = json.load(file)
